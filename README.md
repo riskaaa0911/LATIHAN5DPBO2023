@@ -6,15 +6,22 @@ Saya Riska Nurohmah [2109103] mengerjakan Latihan Praktikum 5 dalam mata kuliah 
 
 <img width="500" alt="desain" src="https://user-images.githubusercontent.com/119839421/226612949-601864ab-086e-4e85-81ca-8da94f1b8850.png">
 
-## Alur Program
+## Alur
 
-Tampilan Awal
+**Tampilan Awal**
+
+Ketika program dijalankan maka tampilan awal akan seperti berikut.
 
 <img width="500" alt="screenshot" src="https://user-images.githubusercontent.com/119839421/226600749-b0ebbf2b-57d6-406e-9b06-3ac17edf02d1.png">
 
-Add Data
+**Add Data** 
+
+Ketika ingin menambahkan data maka user harus mengisi data pada form terdiri dari nim, nama, nilai dan gender. Kemudian, klik button `Add`, jika sudah maka akan muncul pesan bahwa data berhasil ditambahkan. Klik button `Cancel` jika tidak jadi mengisi data pada form, maka tampilan form akan kembali seperti tampilan awal. Jika form belum diisi seperti tampilan awal form maka data tidak bisa ditambahkan. 
 
 <img width="500" alt="add" src="https://user-images.githubusercontent.com/119839421/226613439-652ccd03-4750-44d6-961b-5c429088da29.png">
+
+Ketika di klik `OK` maka data yang telah ditambahkan tadi ditampilkan pada tabel dan form tereset atau kembali ke keadaan form seperti tampilan awal.
+
 <img width="500" alt="sudah_add" src="https://user-images.githubusercontent.com/119839421/226613467-ada83549-662b-4249-8045-73f83bd92e4c.png">
 
 Hapus Data
