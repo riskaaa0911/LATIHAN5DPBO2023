@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/*Saya Riska Nurohmah [2109103] mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
+/*Saya Riska Nurohmah [2109103] mengerjakan Latihan Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
 
 package daftarmahasiswa;
