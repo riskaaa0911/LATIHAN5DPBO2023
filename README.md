@@ -24,12 +24,17 @@ Ketika di klik `OK` maka data yang telah ditambahkan tadi ditampilkan pada tabel
 
 <img width="500" alt="sudah_add" src="https://user-images.githubusercontent.com/119839421/226613467-ada83549-662b-4249-8045-73f83bd92e4c.png">
 
-Hapus Data
+**Hapus Data**
+
+Ketika ingin menghapus data maka pilih salah satu data yang akan dihapus pada tabel kemudian klik button `Delete`, akan muncul konfirmasi apakah data yakin akan dihapus, jika `Yes` maka akan menampilkan pesan bahwa data berhasil dihapus dan data tidak ada lagi pada tabel. Sedangkan, jika `No` maka tampilan form akan kembali ke awal. Klik `Cancel` jika tidak jadi memilih data pada tabel untuk dihapus. Ketika klik `OK` pada pesan bahwa data berhasil dihapus, maka form akan tereset atau kembali ke tampilan awal.
 
 <img width="500" alt="delete" src="https://user-images.githubusercontent.com/119839421/226615479-51185cd6-531a-448c-a74b-709bad73c0c6.png">
+
 <img width="500" alt="udah_delete" src="https://user-images.githubusercontent.com/119839421/226615496-ceabad81-0a31-4972-960c-87fcb03ea79e.png">
 
-Update Data
+**Update Data**
+
+Ketika ingin mengubah data maka pilih salah satu data yang akan diubah pada tabel kemudian data tersebut akan tampil pada form, klik button `Delete`, akan muncul konfirmasi apakah data yakin akan dihapus, jika `Yes` maka akan menampilkan pesan bahwa data berhasil dihapus dan data tidak ada lagi pada tabel. Sedangkan, jika `No` maka tampilan form akan kembali ke awal. Klik `Cancel` jika tidak jadi memilih data pada tabel untuk dihapus. Ketika klik `OK` pada pesan bahwa data berhasil dihapus, maka form akan tereset atau kembali ke tampilan awal.
 
 <img width="500" alt="ubah" src="https://user-images.githubusercontent.com/119839421/226615548-c53e919a-c0cf-4c87-a2d9-4e19f45163bf.png">
 <img width="500" alt="udah_ubah" src="https://user-images.githubusercontent.com/119839421/226615611-1a850ce5-b99a-4d7c-af66-ffc796a43a48.png">
