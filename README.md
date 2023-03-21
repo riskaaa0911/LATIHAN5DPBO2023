@@ -34,7 +34,7 @@ Ketika ingin menghapus data maka pilih salah satu data yang akan dihapus pada ta
 
 **Update Data**
 
-Ketika ingin mengubah data maka pilih salah satu data yang akan diubah pada tabel kemudian data tersebut akan tampil pada form, klik button `Delete`, akan muncul konfirmasi apakah data yakin akan dihapus, jika `Yes` maka akan menampilkan pesan bahwa data berhasil dihapus dan data tidak ada lagi pada tabel. Sedangkan, jika `No` maka tampilan form akan kembali ke awal. Klik `Cancel` jika tidak jadi memilih data pada tabel untuk dihapus. Ketika klik `OK` pada pesan bahwa data berhasil dihapus, maka form akan tereset atau kembali ke tampilan awal.
+Ketika ingin mengubah data maka pilih salah satu data yang akan diubah pada tabel kemudian data tersebut akan tampil pada form dan dapat dilakukan perubahan data, seperti gambar dibawah data Mahasiswa dengan NIM 2109102 diubah nilainya dari B ke A. Setelah itu, klik button `Update`, maka akan menampilkan pesan bahwa data berhasil diubah dan data pada tabel pun berubah. Klik `Cancel` jika tidak jadi memilih data pada tabel untuk diubah, maka form pun kembali ke tampilan awal. Ketika klik `OK` pada pesan bahwa data berhasil diubah, maka form akan tereset atau kembali ke tampilan awal.
 
 <img width="500" alt="ubah" src="https://user-images.githubusercontent.com/119839421/226615548-c53e919a-c0cf-4c87-a2d9-4e19f45163bf.png">
 <img width="500" alt="udah_ubah" src="https://user-images.githubusercontent.com/119839421/226615611-1a850ce5-b99a-4d7c-af66-ffc796a43a48.png">
