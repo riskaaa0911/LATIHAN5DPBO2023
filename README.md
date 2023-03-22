@@ -4,7 +4,14 @@ Saya Riska Nurohmah [2109103] mengerjakan Latihan Praktikum 5 dalam mata kuliah 
 
 ## Desain
 
+Pada program terdapat dua kelas yaitu Class `Mahasiswa` yang memiliki atribut nim, nama, nilai, dan gender. Kemudian, terdapat Class `Menu` yang didalamnya terdapat
+method untuk menambah, mengubah, dan menghapus data pada list Mahasiswa. Selain itu, terdapat juga method untuk mereset form dan untuk menampilkan data pada tabel.
+
+Berikut Desain GUInya
+
 <img width="500" alt="desain" src="https://user-images.githubusercontent.com/119839421/226612949-601864ab-086e-4e85-81ca-8da94f1b8850.png">
+
+Terdapat `Button` **Add**, **Cancel**, dan **Delete**. Terdapat `Table` untuk menampilkan daftar Mahasiswa. Terdapat `Text Field` untuk mengisi data **nim**, **nama**, dan **nilai**. Terdapat `Combo Box` untuk **gender** (Laki-laki, Perempuan). Digunakan juga `Label` untuk memberikan nama (Daftar Mahasiswa, NIM, Nama, Nilai, Gender).
 
 ## Alur
 
